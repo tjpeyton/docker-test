@@ -1,9 +1,8 @@
 # docker-test
 Simple program that takes user input and runs the correspoding program inside a docker container. 
-
 Then displays the terminal output(success and errors). 
-
 Runs on your LocalMachine
+
 
 
 Usage:
