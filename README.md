@@ -18,7 +18,7 @@ Usage:
 
 -Activate virtualenv: "source virtualenv/bin/activate"
 
--Run Flask web app: "python phase1.py"
+-Run Flask web app: "python phase1.py"(or run using wsgi)
 
 -Go to the address where the app is running on your browser (eg. https://0.0.0.0:5000/)
 
